@@ -32,6 +32,13 @@
 4. Test cases are developed and ready
 5. Test environment has been set-up and all other necessary resources such as tools and devices are available.
 
+**Exit Criteria**
+1. Deadlines meet or budget depleted
+2. Execution of all test cases.
+3. Desired and sufficient coverage of the requirements and functionalities under the test.
+4. All the identified defects are corrected and closed.
+5. No high priority or severity or critical bug has been left out.
+
 **Project epics**
 
 - The user should be able to register
