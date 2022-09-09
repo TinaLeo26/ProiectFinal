@@ -59,4 +59,4 @@
 **Project Test Cases**
 
 -  [ **Shopping Bag** ]( https://github.com/TinaLeo26/ProiectFinal/blob/main/Test%20cases-%20shopping%20bag.jpg )
--  [ **Register** ] (https://github.com/TinaLeo26/ProiectFinal/blob/main/Test%20cases-%20register.jpg )
+-  [ **Register** ](https://github.com/TinaLeo26/ProiectFinal/blob/main/Test%20cases-%20register.jpg )
