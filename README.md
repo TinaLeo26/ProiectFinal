@@ -60,3 +60,7 @@
 
 -  [ **Shopping Bag** ]( https://github.com/TinaLeo26/ProiectFinal/blob/main/Test%20cases-%20shopping%20bag.jpg )
 -  [ **Register** ](https://github.com/TinaLeo26/ProiectFinal/blob/main/Test%20cases-%20register.jpg )
+
+**Project Issues**
+- [ **Overlaid text in "Copil" section** ]( https://github.com/TinaLeo26/ProiectFinal/blob/main/Overlaid%20text%20in%20Copil%20section.PNG )
+- [ ** Buttons "OFERTA SPECIALA" and "BACK TO OFFICE" don't work correctly** ]( https://github.com/TinaLeo26/ProiectFinal/blob/main/Buttons%20don't%20work%20correctly.PNG )
