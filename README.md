@@ -63,4 +63,4 @@
 
 **Project Issues**
 - [ **Overlaid text in "Copil" section** ]( https://github.com/TinaLeo26/ProiectFinal/blob/main/Overlaid%20text%20in%20Copil%20section.PNG )
-- [ ** Buttons "OFERTA SPECIALA" and "BACK TO OFFICE" don't work correctly** ]( https://github.com/TinaLeo26/ProiectFinal/blob/main/Buttons%20don't%20work%20correctly.PNG )
+- [ **Buttons "OFERTA SPECIALA" and "BACK TO OFFICE" don't work correctly** ]( https://github.com/TinaLeo26/ProiectFinal/blob/main/Buttons%20don't%20work%20correctly.PNG )
